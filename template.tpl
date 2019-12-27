@@ -9,7 +9,7 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
-  "displayName": "Bluekai-Oracle DMP",
+  "displayName": "Bluekai Oracle Dmp",
   "categories": ["MARKETING"],
   "description": "BlueKai is the industry’s leading cloud-based big data platform that enables marketing organizations to personalize online, offline, and mobile marketing campaigns with richer and more-actionable info",
   "securityGroups": [],
